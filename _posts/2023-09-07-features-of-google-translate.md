@@ -28,11 +28,11 @@ Google Translate has introduced several innovative features to enhance its capab
 
 Using these features is simple:
 
-•	Download the Google Translate app on your mobile device (available for both iOS and Android) or use the web version.
-•	Open the app and choose your source and target languages.
-•	To access Conversation Mode, simply tap the microphone icon, and Google Translate will start translating your spoken words.
-•	To use Camera Translation, tap the camera icon and point your camera at the text you want to translate.
-•	Transcribe Mode can be accessed by tapping the "Transcribe" option, which converts spoken words into text.
+•	Download the Google Translate app on your mobile device (available for both iOS and Android) or use the web version.  
+•	Open the app and choose your source and target languages.  
+•	To access Conversation Mode, simply tap the microphone icon, and Google Translate will start translating your spoken words.  
+•	To use Camera Translation, tap the camera icon and point your camera at the text you want to translate.  
+•	Transcribe Mode can be accessed by tapping the "Transcribe" option, which converts spoken words into text.  
 •	For offline translation, download the desired language packs in advance through the app settings.
 
 ## The Benefits of Using the Latest Features of Google Translate
