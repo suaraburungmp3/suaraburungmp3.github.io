@@ -60,9 +60,9 @@ User reviews of Notevibes.com generally praise its ease of use and voice quality
 
 ## Frequently Asked Questions (FAQs)
 
-1. Is Notevibes.com free to use?
+1. Is Notevibes.com free to use?  
 Notevibes.com offers a free plan with limitations, but premium plans with additional features are available.
-2. Can I use Notevibes.com for commercial purposes?
+2. Can I use Notevibes.com for commercial purposes?  
 Yes, Notevibes.com offers commercial licenses for businesses and organizations.
 
 ## Updates and Future Developments
